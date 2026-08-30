@@ -1,5 +1,4 @@
-# chocolate-factory-sales-dashboard
-Building the full Python project now — data cleaning script, EDA script, and analysis with real output.
+
 # Chocolate Factory Sales Analysis (Python + Power BI)
 
 ## Project Overview
